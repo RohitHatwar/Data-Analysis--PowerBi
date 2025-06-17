@@ -79,3 +79,12 @@ Education and Marital Status breakdown
 * Power Query Editor --	Data cleaning and transformation
 * CSV File Format --	Source of HR data
 * Slicers & Filters --	For interactive dashboard experience
+
+## DashBoard Image
+
+![HR dashboard](https://github.com/user-attachments/assets/8ef447bb-6011-498a-8f69-17b11f383864)
+
+
+
+
+
