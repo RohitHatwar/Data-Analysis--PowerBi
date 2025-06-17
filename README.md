@@ -72,6 +72,19 @@ Education and Marital Status breakdown
 
 * Overtime vs Attrition Correlation
 
+## Insights Derived
+* High attrition observed in specific departments.
+
+* Increasing hiring trends in the Tech & Sales teams post Q3.
+
+* Gender diversity shows imbalance in senior management roles.
+
+* Tenure gap highlights retention challenges in junior-level roles.
+
+* Salary disparity among departments suggests need for standardization.
+
+
+
 ## Tools & Technologies Used
   Tool             /      Technology	Purpose
 * Power BI Desktop --	Visualization, report creation
